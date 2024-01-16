@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1012450333552",
+    "project_id": "comogastoyt-a953a",
+    "storage_bucket": "comogastoyt-a953a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012450333552:android:df1c1509de7f72061d75b5",
+        "android_client_info": {
+          "package_name": "com.example.controlgastos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh-JscbRlfOhILA4jhjYcAp4NqYfyFmps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
